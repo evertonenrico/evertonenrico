@@ -126,8 +126,14 @@ Na minha função atual, sou responsável por liderar a equipe de suporte, monit
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonenrico&theme=tokyonight&locale=pt-br" 
   />
 
-<details open> 
-  <summary><h2>📘 Meus Projetos</h2></summary>
+<br/>
+<br/>
+
+
+ ---
+ 
+
+<summary><h2> 📘 Meus Projetos</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->

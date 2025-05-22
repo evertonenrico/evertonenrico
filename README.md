@@ -104,8 +104,7 @@ Na minha função atual, sou responsável por liderar a equipe de suporte, monit
 <br/>
 <br/>
 
-
- ---
+---
 
 ### 📊 Estatísticas
 
@@ -129,11 +128,9 @@ Na minha função atual, sou responsável por liderar a equipe de suporte, monit
 <br/>
 <br/>
 
-
- ---
+---
  
-
-<summary><h2> 📘 Meus Projetos</h2></summary>
+### 📘 Meus Projetos
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->

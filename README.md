@@ -45,9 +45,6 @@ Na minha função atual, sou responsável por liderar a equipe de suporte, monit
         />
     </a>
 
-
-     
-    
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -108,39 +105,35 @@ Na minha função atual, sou responsável por liderar a equipe de suporte, monit
 
 ### 📊 Estatísticas
 
-<p>
+<div>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=evertonenrico&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-   <img 
-    align="left" 
+  <img 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonenrico&theme=tokyonight&locale=pt-br" 
   />
+</div>
 
-<br/>
+<br clear="all" />
 <br/>
 
 ---
  
 ### 📘 Meus Projetos
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/evertonenrico/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=evertonenrico&repo=SuperMarket&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+<p align="left">
+  <a href="https://github.com/evertonenrico/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=evertonenrico&repo=SuperMarket&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/evertonenrico/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=evertonenrico&repo=DadosDengueSorocaba&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-   <a href="https://github.com/evertonenrico/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=evertonenrico&repo=InternacoesHospitalares&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/evertonenrico/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=evertonenrico&repo=InternacoesHospitalares&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/evertonenrico/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=evertonenrico&repo=Majestic_Exportadora&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/evertonenrico/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=evertonenrico&repo=People-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  </p>
+</p>
 
-  <a href="https://github.com/evertonenrico?tab=repositories&sort=stargazers"><img alt="Todos Repositorios" title="Todos Repositorios" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Todos%20meus%20Repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
+<a href="https://github.com/evertonenrico?tab=repositories&sort=stargazers"><img alt="Todos Repositorios" title="Todos Repositorios" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Todos%20meus%20Repositórios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>

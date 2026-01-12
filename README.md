@@ -103,29 +103,6 @@ Na minha função atual, sou responsável por liderar a equipe de suporte, monit
 
 ---
 
-### 📊 Estatísticas
-
-<div>
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=evertonenrico&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonenrico&theme=tokyonight&locale=pt-br" 
-  />
-</div>
-
-<br clear="all" />
-<br/>
-
----
- 
 ### 📘 Meus Projetos
 
 <p align="left">
